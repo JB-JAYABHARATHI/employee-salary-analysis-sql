@@ -10,3 +10,7 @@ This project analyzes employee data using SQL to understand salary distribution,
 
 ## Tools Used:
 - MySQL
+- 
+## Output
+
+![Output](output.png)
